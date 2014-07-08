@@ -40,3 +40,4 @@ class Mi24_DZE: Mi24_DZ {
 				magazines[] = {};
 			};
 		};
+	};
