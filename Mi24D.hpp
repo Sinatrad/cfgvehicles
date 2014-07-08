@@ -27,6 +27,9 @@ class Mi24_DZ: Mi24_Base_CDF {
 		class Library {
 			libtextdesc = "The Mil Mi-24 (NATO reporting name: Hind) is a Russian-made large helicopter gunship also capable of a low-capacity troop transportation.<br/>The Mil Mi-24P (NATO reporting name: Hind-D) is a more advanced version of the original Mi-24 designed primarily as a weapons platform.";
 		};
+		commanderCanSee = 2+16+32;
+		gunnerCanSee = 2+16+32;
+		driverCanSee = 2+16+32;
 		transportMaxWeapons = 30;
 		transportMaxMagazines = 100;
 		transportmaxbackpacks = 10;
