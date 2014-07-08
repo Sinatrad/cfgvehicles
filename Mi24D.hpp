@@ -4,7 +4,7 @@
 
 
 class Mi24_Base_CDF;
-class Mi24_DZ: Mi24_Base_CDF {
+class Mi24_D_DZ: Mi24_Base_CDF {
 		accuracy = 1000;
 		crew = "";
 		displayname = "Mi-24D_DZ";
@@ -36,7 +36,7 @@ class Mi24_DZ: Mi24_Base_CDF {
 	
 	};	
 	
-class Mi24_DZE: Mi24_DZ {
+class Mi24_D_DZE: Mi24_D_DZ {
 		displayname = "Mi-24D_DZE";
 		class Turrets: Turrets {
 			class MainTurret: MainTurret {
