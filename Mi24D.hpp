@@ -1,4 +1,4 @@
-//Max Usable load for CH53 is 8,000 LBS with 25/85/10 
+//Max Usable load for CH53 is 8,000 LBS represented in game by a value of 25/85/10 
 //Mi24 Max Usable load is 7760, with base Arma Value of 30/150/10
 //Suggest upping both values to 30/100/10
 
