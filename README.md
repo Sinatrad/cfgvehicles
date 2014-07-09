@@ -13,7 +13,7 @@ Bohemia Interactive's Wiki:
 			
 Now to just figure out how to test it....
 
-/*	Max Internal Payload for the CH53E  is 30,000 lbs represented in game by a value of 25/85/10 
+	Max Internal Payload for the CH53E  is 30,000 lbs represented in game by a value of 25/85/10 
 	Mi24 payload is 5000lbs-ish (sources greatly differ), with base Arma Value of 30/150/10
 	The MV-22B has a Capacity of 20,000 lbs internal cargo, represented in game by a value of 20/400/10
 	For Reference 	CH53E	25/85/10	(30,000 lbs real life) (32,000 lbs externally)
@@ -46,4 +46,4 @@ Now to just figure out how to test it....
 	Since the cargo slots above reflect internal cargo, it unfortunately does reflect a more 
 	realistic amount. 
 	http://fas.org/man/dod-101/sys/land/wsh2012/48.pdf
-*/
+
