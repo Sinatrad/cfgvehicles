@@ -1,0 +1,21 @@
+class MGun;
+class M32_heli_DZ: MGun {
+airateoffire = 2;
+airateoffiredistance = 500;
+canlock = 0;
+cursor = "Vehicle_Grenade_E";
+cursorsize = 4;
+dispersion = 0.007;
+displayname = "M32";
+magazinereloadtime = 3;
+magazines[] = {"6Rnd_HE_M203"};
+maxrange = 1500;
+maxrangeprobab = 0.1;
+midrange = 450;
+midrangeprobab = 0.7;
+minrange = 8;
+minrangeprobab = 0.6;
+reloadtime = 0.5;
+scope = 1;
+sound[] = {"\Ca\sounds\Weapons\cannon\AGS30_shot1_a", 3.16228, 1, 1200};
+};

@@ -32,3 +32,34 @@ tracersEvery = 4;
 nameSound = "mgun";
 weight = 80;
 };
+
+class 750Rnd_M197_AH1 : CA_Magazine {
+count = 750;
+scope = 2;
+displayName = "M197";
+picture = "\z\addons\dayz_epoch\pictures\equip_m134_mag_ca.paa";
+model = "\z\addons\dayz_epoch\models\m134_mag.p3d";
+ammo = "B_20mm_AP"; 
+type = "256";
+initspeed = 1036;
+maxLeadSpeed = 200;
+tracersEvery = 2;
+nameSound = "cannon";
+weight = 80;
+};
+
+class 1200Rnd_30x113mm_M789_HEDP : CA_Magazine {
+airlock = 1;
+count = 1200;
+scope = 1;
+displayName = "M230";
+picture = "\z\addons\dayz_epoch\pictures\equip_m134_mag_ca.paa";
+model = "\z\addons\dayz_epoch\models\m134_mag.p3d";
+ammo = "B_30x113mm_M789_HEDP"; 
+type = "256";
+initspeed = 805;
+maxLeadSpeed = 500;
+tracersEvery = 1;
+nameSound = "cannon";
+weight = 80;
+};
