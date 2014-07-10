@@ -26,6 +26,7 @@ model = "\Ca\Air_PMC\Ka137\Ka137.p3d";
 picture = "\Ca\Air_PMC\data\ui\picture_ka137_PMC_ca.paa";
 radartype = 4;
 sensitivity = 2;
+scope = 1; //Added 
 sounddammage[] = {"", 0.562341, 1};
 soundengineoffext[] = {"Ca\Sounds_PMC\Air_PMC\Ka_157_stop", 0.562341, 1, 800};
 soundengineoffint[] = {"Ca\Sounds_PMC\Air_PMC\Ka_157_stop_int", 0.1, 1};

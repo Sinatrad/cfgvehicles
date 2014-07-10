@@ -11,6 +11,10 @@ Play With Six's CFG Browser Project -- http://browser.six-projects.net/cfg_vehic
 Bohemia Interactive's Wiki:
 			CfgVehicles Reference: https://community.bistudio.com/wiki/CfgVehicles_Config_Reference
 			
+Most classes are cut-pasted configs of the base class used. This is intentional at this stage of testing and eventually
+all non-edited variables will be removed to be inherited by the base class. 
+			
+					
 Now to just figure out how to test it..
 
 	Max Internal Payload for the CH53E  is 30,000 lbs represented in game by a value of 25/85/10 
